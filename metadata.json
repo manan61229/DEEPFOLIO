@@ -1,0 +1,5 @@
+{
+  "name": "DeepFolio AI",
+  "description": "An intelligent portfolio generator that converts your resume and social media posts into a professional, narrative-driven timeline using Google's Gemini API.",
+  "requestFramePermissions": []
+}
